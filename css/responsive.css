@@ -1,0 +1,315 @@
+/* 
+  ##Device =Smartphones Mobiles (Galaxi Fold)
+  ##Screen = B/w 279px to 319px
+*/
+
+@media (min-width: 279px) and (max-width: 319px) {
+  
+  /* CSS */
+  .main-header .title {
+    width: 100%;
+    padding: 40px 0px;
+}
+.navbar-toggler .fa-bars{
+  color: #08c;
+}
+.navbar-toggler:focus{
+  box-shadow: 1px 1px 1px #08c;
+  border: 1px solid #08c;
+}
+.main-header .title .img-fluid {
+    width: 30%;
+}
+.main-header .title .btn-success {
+  margin: 10px 0px 0px 60px;
+}
+.form {
+    width: 100%;
+    padding: 30px 50px 50px 0px;
+    margin: 0px 0px 0px 24px;
+  }
+.social-media{
+    text-align: center;
+    }
+.feature-section {
+    text-align: center;
+  }
+.feature-section .btn-light {
+  margin: 10px 0px 0px 10px;
+}
+.sublist-section img{
+  width: 100%;
+}
+.sublist-section .img-fluid{
+   width: 25%;
+margin: 0px 0px 20px 0px;
+}
+.sublist-section{
+  text-align: center;
+}
+.standard{
+  text-align: center;
+}
+.standard .img-fluid{
+  width: 25%;
+margin: 0px 0px 20px 0px;
+}
+.standard img{
+  width: 100%;
+}
+.pricing-table {
+  margin: 0px 0px 0px 20px;
+}
+.pricing-tab{
+  margin: 0px 0px 0px 20px;
+}
+.pricing-tab .main-pric h6 {
+  margin: 0px 0px -40px 0px;
+}
+.what-our .inner-what-our .in img {
+    width: 60%;
+}
+.contact .inner-contact {
+    width: 100%;
+    padding: 0px 0px 0px 45px;
+}
+.contact .message {
+    padding: 0px 0px 30px 42px;
+}
+.footer-section .img-fluid {
+    width: 60%;
+    }
+  /*css end*/
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+    .main-header .title {
+    width: 100%;
+    padding: 40px 0px;
+}
+.navbar-toggler .fa-bars{
+  color: #08c;
+}
+.navbar-toggler:focus{
+  box-shadow: 1px 1px 1px #08c;
+  border: 1px solid #08c;
+}
+
+.form {
+    width: 100%;
+    padding: 30px 50px 50px 0px;
+    margin: 0px 0px 0px 24px;
+  }
+.social-media{
+    text-align: center;
+    }
+.feature-section {
+    text-align: center;
+  }
+.feature-section .btn-light {
+  margin: 10px 0px 0px 10px;
+}
+.sublist-section img{
+  width: 100%;
+}
+.sublist-section .img-fluid{
+   width: 18%;
+margin: 0px 0px 20px 0px;
+}
+.sublist-section{
+  text-align: center;
+}
+.standard{
+  text-align: center;
+}
+.standard .img-fluid{
+  width: 18%;
+margin: 0px 0px 20px 0px;
+}
+.standard img{
+  width: 100%;
+}
+.pricing-table {
+  margin: 0px 0px 0px 20px;
+}
+.pricing-tab{
+  margin: 0px 0px 0px 20px;
+}
+.pricing-tab .main-pric h6 {
+  margin: 0px 0px -40px 0px;
+}
+.what-our .inner-what-our .in img {
+    width: 50%;
+}
+.contact .inner-contact {
+    width: 100%;
+    padding: 0px 0px 0px 45px;
+}
+.contact .message {
+    padding: 0px 0px 30px 42px;
+}
+.footer-section .img-fluid {
+    width: 60%;
+    }
+  /*css end*/
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+    .main-header .title {
+    width: 100%;
+    padding: 40px 0px;
+}
+.navbar-toggler .fa-bars{
+  color: #08c;
+}
+.navbar-toggler:focus{
+  box-shadow: 1px 1px 1px #08c;
+  border: 1px solid #08c;
+}
+.form {
+    width: 60%;
+    padding: 30px 50px 50px 0px;
+    margin: 0px 0px 0px 110px;
+  }
+.social-media{
+    text-align: center;
+    }
+.feature-section {
+    text-align: center;
+  }
+.feature-section .btn-light {
+  margin: 10px 0px 0px 10px;
+}
+.sublist-section img{
+  width: 100%;
+}
+.sublist-section .img-fluid{
+   width: 13%;
+margin: 0px 0px 20px 0px;
+}
+.sublist-section{
+  text-align: center;
+}
+.standard{
+  text-align: center;
+}
+.standard .img-fluid{
+  width: 13%;
+margin: 0px 0px 20px 0px;
+}
+.standard img{
+  width: 100%;
+}
+.pricing-table {
+  margin: 0px 0px 0px 20px;
+}
+.pricing-tab{
+  margin: 0px 0px 0px 20px;
+}
+.pricing-tab .main-pric h6 {
+  margin: 0px 0px -40px 0px;
+}
+.what-our .inner-what-our .in img {
+    width: 35%;
+}
+.contact .inner-contact {
+    width: 100%;
+    padding: 0px 0px 0px 45px;
+}
+.contact .message {
+    padding: 0px 0px 30px 42px;
+}
+.footer-section .img-fluid {
+    width: 60%;
+    }
+  /*css end*/
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+    .main-header .title {
+    width: 100%;
+    padding: 40px 0px;
+}
+.navbar-toggler .fa-bars{
+  color: #08c;
+}
+.navbar-toggler:focus{
+  box-shadow: 1px 1px 1px #08c;
+  border: 1px solid #08c;
+}
+
+.form {
+    width: 60%;
+    padding: 30px 50px 50px 0px;
+    margin: 0px 0px 0px 90px;
+  }
+.social-media{
+    text-align: center;
+    }
+
+.feature-section .btn-light {
+  margin: 10px 0px 0px 10px;
+}
+.sublist-section img{
+  width: 100%;
+}
+.sublist-section .img-fluid{
+   width: 15%;
+margin: 0px 0px 20px 0px;
+}
+
+
+.standard .img-fluid{
+  width: 15%;
+margin: 0px 0px 20px 0px;
+}
+.standard img{
+  width: 100%;
+}
+.pricing-table {
+  margin: 0px 0px 0px 20px;
+}
+.pricing-tab{
+  margin: 0px 0px 0px 20px;
+}
+.pricing-tab .main-pric h6 {
+  margin: 0px 0px -40px 0px;
+}
+.what-our .inner-what-our .in img {
+    width: 300%;
+}
+.contact .inner-contact {
+    width: 100%;
+    padding: 0px 0px 0px 45px;
+}
+.contact .message {
+    padding: 0px 0px 30px 42px;
+}
+.footer-section .img-fluid {
+    width: 40%;
+    }
+  /*css end*/
+}
+
+
